@@ -30,7 +30,7 @@ También es muy sencillo, y para hacerlo debes seguir los siguientes pasos:
 
     **javascript:**
 
-6) a continuación vas a pegar todo el contenido del archivo **[jsInjection](./jsInjection.js)**.
+6) a continuación vas a pegar todo el contenido del archivo **[jsInjection](https://raw.githubusercontent.com/develasquez/comisaria-virtual-carga-datos/master/jsInjection.js)**.
 
 Debería quedar como la siguiente imágen:
 
